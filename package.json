@@ -1,0 +1,15 @@
+{
+  "name": "001-repaso-bases",
+  "version": "0.0.1",
+  "description": "Estes es un programa para crear contratos a precio alsado",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Marquez",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.4.0"
+  }
+}
